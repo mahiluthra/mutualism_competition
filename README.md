@@ -1,13 +1,19 @@
 # mutualism_competition
 Modelling effects of mutualism and competition on population dynamics
-Aim
+
+### Population Dynamics: Mutualism and Competition
+
+##Aim
 Investigating the interactions of mutualistic relationships and competitive relationships and quantifying their impact on biodiversity. Results of this study are not only relevant to ecological contexts but also human cultural contexts where competition and mutualism come to play (e.g., economy).
-Background
+
+##Background
 Ecological systems are often a delicate balance of different types of symbiotic relationships between species contained in it. Any changes in quality or quantity of interactions can produce severe instability in population dynamics. Research has emphasized that ecological systems have evolved to have a deliberate structure with the aim of increasing stability to prevent extinction (Jordano, Bascompte, & Olesen, 2003). One such potential mechanism of increasing stability is interconnected mutualistic relationships between species (Bastolla at al., 2013). The current paper explores the scope of mutualistic relationships in reducing the debilitating impact of competition and thus increasing biodiversity.
+
 The logic is as follows: If one set of species that compete against one another for common resources (e.g., plants) have complete interconnected mutualistic relationships with another set of species that also compete against each other (e.g., insects), an indirect mutualistic relationship is established between the competing species. For instance, if the population of one species of plants reduces, the population of all insect species reduces, reducing the population of other species of plants. Hence, the health of all plant populations is dependent on one another, even though they compete for common resources.
-Methods 
+
+##Methods 
 Conditions: To study this concept, an ecosystem was created, composed of 15 competing plants and 15 competing insects. The degree of mutualistic interactions was varied across three conditions:
-	No mutualism: Plants and insects did not share a mutualistic relationship. Hence, competition between them was unaffected by mutualism.
+No mutualism: Plants and insects did not share a mutualistic relationship. Hence, competition between them was unaffected by mutualism.
 	Complete mutualism: All plants had mutualistic relationships with all insects. I expect this condition to produce greatest biodiversity, as impact of competition is reduced by the establishment of indirect mutualism between competing species.
 	Part mutualism: Each plant had a mutualistic relationship with only one insect and there was no overlap between these relationships. This interaction will perhaps produce the most unstable ecosystem since the competition between plants is exacerbated by competition between insects and vice versa.
 
