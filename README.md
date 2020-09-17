@@ -37,5 +37,6 @@ This ensured that fitness was a product of larger number of species, larger popu
 
 ## Results
 Figure 1 displays the average fit of individuals across generations for the three conditions. As can be seen, Complete Mutualism has highest fit. Further, it appears that Part Mutualism has higher fit than No Mutualism, however Figure 2 (which displays the population dynamics of best fitting individual) indicates that in Part Mutualism, most species perish and the inflated fitness is produced by large population sizes of few species. Figure 1 also suggests that No Mutualism has lowest fit. This is in spite of both having the same Shannon Biodiversity as Complete Mutualism (around 3.5). The lower fit is produced by lower average population size— average population of Complete Mutualism is almost double that of No Mutualism (0.13 versus 0.7), indicating a healthier ecosystem. These findings are largely according to what we expected. Higher fitness of Part Mutualism over No Mutualism was not hypothesized, but it is clear from looking at its population dynamics that it is more unstable than No Mutualism, but has an inflated fitness due to higher average population size.
+
 ![fig1](fig1.PNG)
 ![fig2](fig2.PNG)
