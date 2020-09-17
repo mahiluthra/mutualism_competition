@@ -24,7 +24,7 @@ To investigate these questions, a generational genetic algorithm was employed. T
 
 ### Dynamical System:
 The following ODE was used to model effects of mutualism and competition:
-![equation](equation.png)
+![equation](equation.PNG)
 
 In the above equation, x_i is the population of plant species i; r_i is its growth rate; α_ij is its degree of competition with plants species j; y_k is the population of insect species k; γ_ik is the degree of mutualistic interaction between plant i and insect k;  and h is the handling capacity. The middle term specifies the impact of competition and the last terms specifies that of mutualism. 
 Parameters r_i, α_ij, and γ_ik  were free to evolve and ranged between 0.5 and 1.5. Starting populations of plants and animals (x_i  and y_k) were randomly picked from a normal distribution with mean 0.5 and SD 0.1. Handling time h was fixed at 1.
@@ -32,10 +32,10 @@ While the above equation has focused on plant populations, the exact equation wa
 
 ### Fitness Measure
 A combination of Shannon Index of Biodiversity and average population level was used:
-![fitness](fitness.png)
+![fitness](fitness.PNG)
 This ensured that fitness was a product of larger number of species, larger populations of each species, and equal distribution of each species.
 
 ## Results
 Figure 1 displays the average fit of individuals across generations for the three conditions. As can be seen, Complete Mutualism has highest fit. Further, it appears that Part Mutualism has higher fit than No Mutualism, however Figure 2 (which displays the population dynamics of best fitting individual) indicates that in Part Mutualism, most species perish and the inflated fitness is produced by large population sizes of few species. Figure 1 also suggests that No Mutualism has lowest fit. This is in spite of both having the same Shannon Biodiversity as Complete Mutualism (around 3.5). The lower fit is produced by lower average population size— average population of Complete Mutualism is almost double that of No Mutualism (0.13 versus 0.7), indicating a healthier ecosystem. These findings are largely according to what we expected. Higher fitness of Part Mutualism over No Mutualism was not hypothesized, but it is clear from looking at its population dynamics that it is more unstable than No Mutualism, but has an inflated fitness due to higher average population size.
-![fig1](fig1.png)
-![fig2](fig2.png)
+![fig1](fig1.PNG)
+![fig2](fig2.PNG)
