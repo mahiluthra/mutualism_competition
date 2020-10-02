@@ -1,5 +1,6 @@
 # mutualism_competition
 Modelling effects of mutualism and competition on population dynamics using genetic algorithms.
+
 Contains code for GA (ga.py), mutualism-competition model (agent_species_mutcomp.py), and running the model (run_trial.py).
 
 ## Aim
