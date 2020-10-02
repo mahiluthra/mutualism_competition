@@ -1,5 +1,5 @@
 # mutualism_competition
-Modelling effects of mutualism and competition on population dynamics
+Modelling effects of mutualism and competition on population dynamics using genetic algorithms
 
 ## Aim
 Investigating the interactions of mutualistic relationships and competitive relationships and quantifying their impact on biodiversity. Results of this study are not only relevant to ecological contexts but also human cultural contexts where competition can play an important role (e.g., economy).
