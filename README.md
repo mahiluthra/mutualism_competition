@@ -1,5 +1,6 @@
 # mutualism_competition
-Modelling effects of mutualism and competition on population dynamics using genetic algorithms
+Modelling effects of mutualism and competition on population dynamics using genetic algorithms.
+Contains code for GA (ga.py), mutualism-competition model (agent_species_mutcomp.py), and running the model (run_trial.py).
 
 ## Aim
 Investigating the interactions of mutualistic relationships and competitive relationships and quantifying their impact on biodiversity. Results of this study are not only relevant to ecological contexts but also human cultural contexts where competition can play an important role (e.g., economy).
